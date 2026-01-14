@@ -1,0 +1,29 @@
+# IDE
+.idea
+.vscode
+
+# Credentials
+config.py
+
+# Virtual Environment
+venv
+env
+.venv
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+
+# OS
+.DS_Store
+*.DS_Store
+Thumbs.db
+
+# Data files
+*.json
+
+# Logs
+*.log
+logs/
